@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+## 你好，欢迎你！！
 
-You can use the [editor on GitHub](https://github.com/WaizSai/waizsai.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# 序言
+	2017-11-12
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ **为什么要建本站**
 
-### Markdown
+我是一个程序员，在学校期间做过网站，现在工作三年了。学了不少东西，可是很多学过后就忘了。除学习外，看过很多电影、动漫、小说。工作上，也有不少感触。突然想把这些写下来，很多东西只是在脑子里，过于零散，想记下来。让自己可以更完整的看到，便于更清楚的了解自己。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+一直以来，自己都像是一个空壳一样，什么都没有，靠着自己的理性，一味的，仅仅只是做自己认为应该做的事。没有自我，没有欲望。任何事，任何人，既不冒犯，也不过于亲近。一直都是远远的看着。就像王熙凤评价薛宝钗的“不干己事不张口，一问摇头三不知”。
 
-```markdown
-Syntax highlighted code block
+<!--
+也并非不知此事，经常有这样的场景出现在自己脑海。有一个小小的空房子，真正意义上的空，什么都没有，没有门，我就呆在里面，单纯的看着外面，喜欢看着外面发生的一切，但却毫不关心当事人的一切。这个小屋子里，自己不想出去，别人也进不来。别人进不来，倒不是我拦着他们，我其实很希望别人进来或者把我带出去的。
 
-# Header 1
-## Header 2
-### Header 3
+虽然这样，我这人，过于运气好，着实遇到了不错的好朋友。
+-->
 
-- Bulleted
-- List
+正因为自己是空的，想要把自己现状记下来，了解自己，找到自己的兴趣所在。人只能活一次，所以要好好活着，活着的话，就要做能让自己开心的事。而且，在我看来，做自己感兴趣的事，恰恰也是实现财富自由的捷径和最可行的出路。想想看，假如自己财富自由了，那时想要干什么呢，我想到的便是做自己喜欢的事。所以，直接做自己喜欢的事了，财富自由这个过程就可以跨越了。
 
-1. Numbered
-2. List
+**怎么才算做自己的兴趣呢，如果自己的工作能够像自已的事业一样愿意去付出，那这份工作便是自己的兴趣了。**我是这么认为的。
 
-**Bold** and _Italic_ and `Code` text
+想要把自己写出来，但是没有找到合适的社区，于是，想到了建设这个网站。建设这个网站，用的事阿里云。这样我可以试试最新的云技术。目前已经可以通过IP访问静态网页。确实很方便，成本也很低。
 
-[Link](url) and ![Image](src)
-```
+这个网站，不管能够运营多久，我记录的东西还是会一直继续的。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**为什么是3plus1.fun**
 
-### Jekyll Themes
+.fun 好解释，一来是没有.com域名，其次便宜，然后，重要的一点是，如果这东西有出路，那么，将会作为泛娱乐的域名。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WaizSai/waizsai.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+至于3plus1 ，3 + 1 便可以凑在一起，组一桌麻将。这也是自己以后可能写一些棋牌游戏玩玩的一个预示。
 
-### Support or Contact
+另外，还有个更为主要的原因，此时还不想透露。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!--
+我有个特别好的认识了10年的朋友，我们都在成都呆了7年多。有次我们一起玩的时候，他女朋友说，让我去找一个女朋友，到时候就4个人了。这话至少是3年以前说的了。今年，我当真找了女朋友，便是她妹妹。出于对她的时时想念，前几天我突然想到了这个域名。3+1便是，我、我的好友、我好友的女友 + 现在的女友（好友女友的亲妹妹我的学妹）由此而来。
+我喜欢这个女孩，她笑得很甜，我曾经依赖过她，她也没令我失望，后来的约会中，我变得越来越喜欢她。不过，她虽然答应了做我女友，可是并没有喜欢我，仅仅觉得我个人人品不错和不便拒绝以及告白时确认我喜欢她才答应作我女友的。跟我的相处中，都在尽力做一个尽责的女友。但终究是不喜欢，或者没那么喜欢。不知道她期待什么，也许很快我们就分了，倒是这个网站可能也不会维续了。
+相处3个多月了，尽管，知道她不喜欢我，但我还是抓着她不放，不是我过分，只不过还是需要在努力的。有人跟我说过：你喜欢的人终究会喜欢你。不能害怕失去而不去拥有。因此，我相信爱情。这个时候只有信仰了。
+如果分手了，那就没有心，只有脑子了。
+-->
+
+# 使命和愿景
+
+## 使命
+>让每个人都能够生活的精彩有趣
+
+## 愿景
+>网站能够一直活下去
+
+# 本站的规划
+
+### step1
+完成自己个人博客建立，记录自己的所学所想。建立自己的知识体系。
+
+### step2
+做一些内容分享，添加适量棋牌类小游戏
+
+### step3
+建立社区板块，名字已经想好了，就叫友中友：朋友中的朋友。所有被邀请的人才能进来，进来的人便是朋友或者朋友的朋友。
+
+### step4
+添加咨询板块，涉及到电影、小说、音乐、游戏的一些分享交流和内容推荐。
